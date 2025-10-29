@@ -1,4 +1,4 @@
-baseURL = 'http://blog.liamfitz.dev'
+baseURL = 'https://blog.liamfitz.dev'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
