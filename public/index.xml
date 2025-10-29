@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.liamfitz.dev/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Sep 2025 22:04:25 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.liamfitz.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth</title>
-      <link>http://localhost:1313/posts/fourth/</link>
+      <link>http://blog.liamfitz.dev/posts/fourth/</link>
       <pubDate>Mon, 29 Sep 2025 22:04:25 -0700</pubDate>
-      <guid>http://localhost:1313/posts/fourth/</guid>
+      <guid>http://blog.liamfitz.dev/posts/fourth/</guid>
       <description></description>
     </item>
     <item>
       <title>Thrid</title>
-      <link>http://localhost:1313/posts/thrid/</link>
+      <link>http://blog.liamfitz.dev/posts/thrid/</link>
       <pubDate>Mon, 29 Sep 2025 22:02:10 -0700</pubDate>
-      <guid>http://localhost:1313/posts/thrid/</guid>
+      <guid>http://blog.liamfitz.dev/posts/thrid/</guid>
       <description></description>
     </item>
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://blog.liamfitz.dev/posts/second/</link>
       <pubDate>Mon, 29 Sep 2025 21:53:45 -0700</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://blog.liamfitz.dev/posts/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://blog.liamfitz.dev/posts/first-post/</link>
       <pubDate>Mon, 29 Sep 2025 21:30:01 -0700</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://blog.liamfitz.dev/posts/first-post/</guid>
       <description></description>
     </item>
   </channel>
