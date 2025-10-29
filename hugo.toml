@@ -2,5 +2,5 @@ baseURL = 'http://blog.liamfitz.dev'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = true

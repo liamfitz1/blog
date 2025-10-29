@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2025 22:04:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth</title>
+      <link>http://localhost:1313/posts/fourth/</link>
+      <pubDate>Mon, 29 Sep 2025 22:04:25 -0700</pubDate>
+      <guid>http://localhost:1313/posts/fourth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thrid</title>
+      <link>http://localhost:1313/posts/thrid/</link>
+      <pubDate>Mon, 29 Sep 2025 22:02:10 -0700</pubDate>
+      <guid>http://localhost:1313/posts/thrid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Mon, 29 Sep 2025 21:53:45 -0700</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 29 Sep 2025 21:30:01 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
