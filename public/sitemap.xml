@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.liamfitz.dev/posts/fourth/</loc>
+    <loc>http://localhost:1313/posts/fourth/</loc>
     <lastmod>2025-09-29T22:04:25-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-29T22:04:25-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-09-29T22:04:25-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/posts/thrid/</loc>
+    <loc>http://localhost:1313/posts/thrid/</loc>
     <lastmod>2025-09-29T22:02:10-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/posts/second/</loc>
+    <loc>http://localhost:1313/posts/second/</loc>
     <lastmod>2025-09-29T21:53:45-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/posts/first-post/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2025-09-29T21:30:01-07:00</lastmod>
   </url><url>
-    <loc>https://blog.liamfitz.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.liamfitz.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
