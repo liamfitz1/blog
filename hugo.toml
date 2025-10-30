@@ -1,6 +1,6 @@
 baseURL = 'https://blog.liamfitz.dev'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Blog'
 theme = 'terminal'
 relativeURLs = false
 canonifyURLs = true
